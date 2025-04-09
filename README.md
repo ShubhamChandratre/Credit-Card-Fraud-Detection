@@ -59,7 +59,7 @@ pip install pandas numpy scikit-learn seaborn matplotlib
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Credit-Card-Fraud-Detection.git
+https://github.com/ShubhamChandratre/Credit-Card-Fraud-Detection.git
 ```
 
 2. Navigate to the project directory:
